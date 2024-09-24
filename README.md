@@ -245,7 +245,7 @@ Figure 33 Tracking users in the admin panel
 <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="50" height="50" alt="JavaScript">  &nbsp; &nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original-wordmark.svg" width="50" height="50" alt="Bootstrap"> &nbsp; &nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" width="50" height="50" alt="CSS3"> &nbsp; &nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg" width="50" height="50" alt="Visual Studio"> &nbsp; &nbsp;
+<img src="https://github.com/user-attachments/assets/7afd6646-6213-4c89-9282-5ec2ec02f660" width="50" height="50" alt="Visual Studio Code"> &nbsp; &nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" width="50" height="50" alt="PHP Icon"> &nbsp; &nbsp;
 <img src="https://github.com/devicons/devicon/raw/master/icons/laravel/laravel-original.svg" width="50" height="50" alt="Laravel"> &nbsp; &nbsp;
 <img src="https://github.com/user-attachments/assets/19a7d6fe-0dc4-4eb3-a3ee-672832554b53" width="50" height="50" alt="Image Description"> &nbsp; &nbsp;
