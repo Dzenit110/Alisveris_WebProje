@@ -13,6 +13,60 @@ For purchased products, the customer can cancel the order before the product is 
 This project is based on a realistic online shopping and selling system. Everything has been done in detail, as described above. You can see the screenshots, and at the end, the tools and technologies used for the realization of this project are listed.
 
 <br><br>
+# E-Commerce Management System
+
+This project is a comprehensive e-commerce management system built using Laravel 10. It offers a wide range of features for managing users, products, orders, and more. Below is a breakdown of the core features included in this system:
+
+## Features
+
+1. **Order Management**
+   - Advance Order Tracking System
+   - Product Return Order
+   - Generate Order Invoice in PDF
+
+2. **Stock Management**
+   - Stock Management System
+   - Product Discount Price
+
+3. **User Management**
+   - User Role Management
+   - Multi-Authentication as User, Vendor, and Admin
+   - User Roles and Permission
+   - Change Password Option
+
+4. **Product Management**
+   - Advance Product Search Option
+   - Product Wishlist Option
+   - Product Compare Option
+   - Advance Product Add to Cart Option
+   - Product Review and Rating System
+   - Upload Digital Product
+   - Product Mailing System
+
+5. **Admin and Vendor Features**
+   - Multi Admin For Store
+   - Setup Notifications in Admin and Vendor
+   - Advance Product Apply Coupon
+   - Multiple Online Payment Gateway System
+   - Image Upload System
+   - Multiple Image Upload System
+
+6. **Frontend and Backend**
+   - Adding Professional Theme for Backend
+   - Adding Professional Theme for Frontend
+
+7. **Additional Features**
+   - Site Setting Option
+   - Site SEO Option
+   - Ecommerce Blog Management
+
+## Technology Stack
+
+- **Framework**: Laravel 10
+- **Frontend**: Professional theme integration
+- **Backend**: Professional theme integration
+- **Payment**: Multiple Online Payment Gateways (e.g., Stripe, PayPal)
+
 
 ## Learning Laravel
 
