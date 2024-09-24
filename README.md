@@ -86,7 +86,8 @@ Figure 2 Login and Registration page
 Figure 3 Display of the admin panel and the seller panel
 <br><br>
 
-<img width="600" alt="Screenshot_7" src="https://github.com/user-attachments/assets/cb939e90-9e9f-4be0-ab29-812647bdd7b2">
+
+<img width="600" alt="Screenshot_8" src="https://github.com/user-attachments/assets/d5fe4aa4-5e88-429c-a546-6072217d41da">
 <br>
 Figure 4 Sidebar Admin 
 <br><br>
