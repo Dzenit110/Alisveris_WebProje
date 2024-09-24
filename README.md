@@ -1,4 +1,4 @@
-## E-Commerce Project
+## About E-Commerce Project
 
 The project titled "E-Commerce Project" was developed using modern tools. The project is based on an online shopping system (similar to platforms like Trendyol or Hepsiburada), where, besides the regular user, there is also a seller and an admin panel. The backend can be regulated via this admin panel, allowing for image updates, approval of new user registrations, monitoring of new products (adding, deleting, modifying), and tracking the shipment of the product from order confirmation to delivery. Additionally, for pricing, payment can be made in cash, online, or by credit card (Stripe API, VISA, MasterCard, etc.). The user has the option to enter a coupon, which the admin has previously created and approved for use on the admin panel.
 <br><br>
