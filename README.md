@@ -67,9 +67,15 @@ This project is a comprehensive e-commerce management system built using Laravel
 - **Payment**: Multiple Online Payment Gateways (e.g., Stripe, PayPal)
 
 
-## Learning Laravel
+## User Interface Examples
 
-## Laravel Sponsors
+<img width="308" alt="111" src="https://github.com/user-attachments/assets/b0354de8-7b01-47c6-b18e-2b75b2344e78">
+<br>
+Figure 1 The theme used in the project (Bootstrap 5)
+<br><br>
+
+![3](https://github.com/user-attachments/assets/f9479fcb-eb62-432b-9a49-afac11afea7c)
 
 
-
+Figure 2 Login and Registration page
+<br><br>
