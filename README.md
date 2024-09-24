@@ -246,7 +246,7 @@ Figure 33 Tracking users in the admin panel
 <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" width="50" height="50" alt="CSS3"> &nbsp; &nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg" width="50" height="50" alt="Visual Studio"> &nbsp; &nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" width="50" height="50" alt="PHP Icon"> &nbsp; &nbsp;
-<img src="https://github.com/user-attachments/assets/597c5138-f203-457d-aebd-e99f4a57762a" width="50" height="50" alt="Image Description"> &nbsp; &nbsp;
-<img src="https://github.com/user-attachments/assets/74b32b72-2c55-456a-bc42-f5718d6af3d6" width="50" height="50" alt="Image Description"> &nbsp; &nbsp;
-<img src="https://github.com/user-attachments/assets/b9374cfa-2cf9-46ed-8306-b3cfc1e45203" width="80" height="80" alt="Image Description"> &nbsp; &nbsp;
+<img src="https://github.com/devicons/devicon/raw/master/icons/laravel/laravel-original.svg" width="50" height="50" alt="Laravel"> &nbsp; &nbsp;
+<img src="https://github.com/user-attachments/assets/19a7d6fe-0dc4-4eb3-a3ee-672832554b53" width="50" height="50" alt="Image Description"> &nbsp; &nbsp;
+<img src="https://github.com/user-attachments/assets/b9374cfa-2cf9-46ed-8306-b3cfc1e45203" width="90" height="90" alt="Image Description"> &nbsp; &nbsp;
 
