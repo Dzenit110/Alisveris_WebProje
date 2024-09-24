@@ -237,3 +237,16 @@ Figure 32 Registering the user as a seller
 Figure 33 Tracking users in the admin panel
 
 </div>
+<br><br>
+## 🧰 Languages & Tools <br><br>
+
+<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" width="50" height="50" alt="HTML5"> &nbsp; &nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="50" height="50" alt="JavaScript">  &nbsp; &nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original-wordmark.svg" width="50" height="50" alt="Bootstrap"> &nbsp; &nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" width="50" height="50" alt="CSS3"> &nbsp; &nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg" width="50" height="50" alt="Visual Studio"> &nbsp; &nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" width="50" height="50" alt="PHP Icon"> &nbsp; &nbsp;
+<img src="https://github.com/user-attachments/assets/b140b031-8fe3-4674-b454-def611d06487" width="50" height="50" alt="Image Description"> &nbsp; &nbsp;
+<img src="https://github.com/user-attachments/assets/0fa4a4ac-e0b6-4fee-b44d-919617c7b332" width="50" height="50" alt="Image Description"> &nbsp; &nbsp;
+<img src="https://github.com/user-attachments/assets/b9374cfa-2cf9-46ed-8306-b3cfc1e45203" width="50" height="50" alt="Image Description"> &nbsp; &nbsp;
+
