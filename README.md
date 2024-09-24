@@ -89,12 +89,23 @@ Figure 3 Display of the admin panel and the seller panel<br><br>
 Figure 4 Sidebar Admin 
 <br><br>
 
-<img width="622" alt="Screenshot_8" src="https://github.com/user-attachments/assets/4fe48874-60e7-4a10-b88a-736785950671">
+![5](https://github.com/user-attachments/assets/e37b2827-d48e-493d-a5b6-d2139742da8e)
 
-Figure 5 Admin All Category<br><br>
+
+Figure 5 Admin Side Bar All Category..<br><br>
+![6](https://github.com/user-attachments/assets/4e6a6698-b20e-4256-92bc-1bc00069105b)
+
+
+Figure 6 Admin Product Details<br><br>
+
+![7](https://github.com/user-attachments/assets/67cfde47-d385-4eeb-830c-c120ae139f2e)
+
+Figure 7 Admin Add New Product<br><br>
 
 <img width="622" alt="Screenshot_9" src="https://github.com/user-attachments/assets/02f993da-e57e-45c2-85d6-34f5bf2d31b8">
 
-Figure 6 Index page, Search Products 
+Figure 8 Index page, Search Products <br><br>
+
+
 
 
