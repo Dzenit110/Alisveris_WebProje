@@ -89,7 +89,7 @@ Figure 3 Display of the admin panel and the seller panel
 
 <img width="600" alt="Screenshot_8" src="https://github.com/user-attachments/assets/d5fe4aa4-5e88-429c-a546-6072217d41da">
 <br>
-Figure 4 Sidebar Admin 
+Figure 4 Control Products Admin Panel
 <br><br>
 
 <img width="600" src="https://github.com/user-attachments/assets/e37b2827-d48e-493d-a5b6-d2139742da8e">
