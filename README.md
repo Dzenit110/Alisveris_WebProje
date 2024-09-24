@@ -69,157 +69,163 @@ This project is a comprehensive e-commerce management system built using Laravel
 
 ## User Interface Examples
 
-<img width="308" alt="111" src="https://github.com/user-attachments/assets/b0354de8-7b01-47c6-b18e-2b75b2344e78">
-<br>
-Figure 1 The theme used in the project (Bootstrap 5)
-<br><br>
-
-![3](https://github.com/user-attachments/assets/f9479fcb-eb62-432b-9a49-afac11afea7c)
-<br>
-Figure 2 Login and Registration page
-<br><br>
-
-![4](https://github.com/user-attachments/assets/ccb669be-ff19-4eee-b9c8-9226cb6d124b)
-<br>
-Figure 3 Display of the admin panel and the seller panel<br><br>
-
-<img width="111" alt="Screenshot_7" src="https://github.com/user-attachments/assets/cb939e90-9e9f-4be0-ab29-812647bdd7b2">
-
-<br>
-Figure 4 Sidebar Admin 
-<br><br>
-
-![5](https://github.com/user-attachments/assets/e37b2827-d48e-493d-a5b6-d2139742da8e)
-
-
-Figure 5 Admin Side Bar All Category..<br><br>
-![6](https://github.com/user-attachments/assets/4e6a6698-b20e-4256-92bc-1bc00069105b)
-
-
-Figure 6 Admin Product Details<br><br>
-
-![7](https://github.com/user-attachments/assets/67cfde47-d385-4eeb-830c-c120ae139f2e)
-
-Figure 7 Admin Change Product (Category, Brand..)
-
-<img width="610" alt="Screenshot_21" src="https://github.com/user-attachments/assets/0638d562-1605-435a-8b7e-379f4c3fb5ec">
-
-Figure 8 Admin Add New Product<br><br>
-
-<img width="622" alt="Screenshot_9" src="https://github.com/user-attachments/assets/02f993da-e57e-45c2-85d6-34f5bf2d31b8">
-
-Figure 9 Index page, Search Products <br><br>
-
-<img width="462" alt="Screenshot_24" src="https://github.com/user-attachments/assets/99f4bf9f-6b34-4cd6-a3df-77df156f39fc">
-
-Figure 10 Product Buy (Details (Color, Price, Size))<br><br>
-
-![8](https://github.com/user-attachments/assets/8857df10-3e91-41ac-8aa3-029e58008365)
-
-Figure 11 Reviews (Vendor and Product)<br><br>
-
-![11](https://github.com/user-attachments/assets/f8206327-56e5-49bf-a876-4d0432459058)
-
-Figure 12 Product Compare (Control)<br><br>
-
-
-![9](https://github.com/user-attachments/assets/05d386f9-af2c-4e79-a285-a7d2902b02fa)
-
-Figure 13 User Login to E-Commerce <br><br>
-
-![10](https://github.com/user-attachments/assets/da0856f6-07e0-4298-b82d-827a22325d13)
-
-Figure 14 Product Add to Cart (Before Payment)<br><br>
-
-<img width="605" alt="Screenshot_36" src="https://github.com/user-attachments/assets/5166a8aa-5e25-48cc-9c74-aeb395490cf9">
-
-Figure 15 Purchasing the desired product<br><br>
-
- <img width="352" alt="Screenshot_37" src="https://github.com/user-attachments/assets/d6a2daac-2c82-46e2-a6e2-6115b27a097a">
-
-Figure 16 Using a coupon with a discount code that was added through the admin panel<br><br>
-
-
-<img width="610" alt="Screenshot_39" src="https://github.com/user-attachments/assets/e08b8b5d-a35f-4a07-80eb-f5b242ba7275">
-
-Figure 17 Billing Details, Product<br><br>
-
-
-<img width="285" alt="Screenshot_40" src="https://github.com/user-attachments/assets/96ebb8e5-fb0e-4a62-8e8c-e87e9eb5fd98">
-
-Figure 18 Payment types, options<br><br>
-
-
-<img width="613" alt="Screenshot_35" src="https://github.com/user-attachments/assets/c97f6f8c-6e01-408f-a381-41c37152f626">
-
-Figure 19 Admin panel, coupons with discount codes for purchases<br><br>
-
-
-<img width="614" alt="Screenshot_41" src="https://github.com/user-attachments/assets/debb2e65-c039-4ffd-a944-2504317db8be">
-
-
-Figure 20 User, selection of cash payment<br><br>
-
-<img width="613" alt="Screenshot_42" src="https://github.com/user-attachments/assets/de02685b-020a-47d3-8b61-a2e7af3a28be">
-
-
-Figure 21 Order records for the user<br><br>
-
-
-<img width="595" alt="Screenshot_43" src="https://github.com/user-attachments/assets/b1f5ecc9-21ee-4f69-9c3c-c2925374a20d">
-
-Figure 22 Order details for the user<br><br>
-
-
-<img width="537" alt="Screenshot_46" src="https://github.com/user-attachments/assets/ea753f1f-3132-49a4-ba18-49aabcc1c1f1">
-
-Figure 23 Admin panel for tracking orders<br><br>
-
-
-
-<img width="598" alt="Screenshot_47" src="https://github.com/user-attachments/assets/222fec8b-803f-4b93-9fd3-e719fb1e94f5">
-
-Figure 24 Seller, orders that have been placed with sellers, table display<br><br>
-
-
-<img width="610" alt="Screenshot_48" src="https://github.com/user-attachments/assets/23b89796-ccee-499f-a32c-0552fdd3efbd">
-
-Figure 25 Seller, order details<br><br>
-
-
-<img width="548" alt="Screenshot_49" src="https://github.com/user-attachments/assets/3772191c-a309-48aa-8056-72d9e7a29403">
-
-Figure 26 Order approval in the admin panel<br><br>
-
-
-<img width="615" alt="Screenshot_50" src="https://github.com/user-attachments/assets/82f61948-eb06-4237-b3d6-a324ca903a53">
-
-Figure 27 Display of all confirmed orders in the admin panel<br><br>
-
-
-<img width="613" alt="Screenshot_51" src="https://github.com/user-attachments/assets/aac91dbc-edee-44b8-8e2a-5027469fcb98">
-
-Figure 28 Display of order confirmation for the user, i.e., the buyer<br><br>
-
-![13](https://github.com/user-attachments/assets/284faa68-a1ef-4e9a-bc73-5ea8cae2c93c)
-
-Figure 29 Display of the order tracking path, where the user can monitor its status and Return Orders in Vendor Panel<br><br>
-
-![creditcart](https://github.com/user-attachments/assets/a6caf1df-5abf-4b9d-ba03-5b74316484ce)
-
-Figure 30 Display of the card system(Demo)<br><br>
-
-
-<img width="596" alt="Screenshot_52" src="https://github.com/user-attachments/assets/80ab2bc0-2879-4cd3-b195-fb3df01c0882">
-
-Figure 31 Order in PDF format<br><br>
-
-![14](https://github.com/user-attachments/assets/3932fe41-387b-4f49-acd7-376b6e939567)
-
-
-Figure 32 Registering the user as a seller<br><br>
-
-<img width="490" alt="Screenshot_61" src="https://github.com/user-attachments/assets/e7268f59-40a2-4399-960d-002f6ded17db">
-
-
-Figure 33 Tracking users in the admin panel<br><br>
+<div style="text-align: center;">
+  <img width="610" alt="111" src="https://github.com/user-attachments/assets/b0354de8-7b01-47c6-b18e-2b75b2344e78">
+  <br>
+  Figure 1 The theme used in the project (Bootstrap 5)
+  <br><br>
+
+  <img width="610" alt="3" src="https://github.com/user-attachments/assets/f9479fcb-eb62-432b-9a49-afac11afea7c">
+  <br>
+  Figure 2 Login and Registration page
+  <br><br>
+
+  <img width="610" alt="4" src="https://github.com/user-attachments/assets/ccb669be-ff19-4eee-b9c8-9226cb6d124b">
+  <br>
+  Figure 3 Display of the admin panel and the seller panel
+  <br><br>
+
+  <img width="610" alt="Screenshot_7" src="https://github.com/user-attachments/assets/cb939e90-9e9f-4be0-ab29-812647bdd7b2">
+  <br>
+  Figure 4 Sidebar Admin 
+  <br><br>
+
+  <img width="610" alt="5" src="https://github.com/user-attachments/assets/e37b2827-d48e-493d-a5b6-d2139742da8e">
+  <br>
+  Figure 5 Admin Side Bar All Category..
+  <br><br>
+
+  <img width="610" alt="6" src="https://github.com/user-attachments/assets/4e6a6698-b20e-4256-92bc-1bc00069105b">
+  <br>
+  Figure 6 Admin Product Details
+  <br><br>
+
+  <img width="610" alt="7" src="https://github.com/user-attachments/assets/67cfde47-d385-4eeb-830c-c120ae139f2e">
+  <br>
+  Figure 7 Admin Change Product (Category, Brand..)
+  <br><br>
+
+  <img width="610" alt="Screenshot_21" src="https://github.com/user-attachments/assets/0638d562-1605-435a-8b7e-379f4c3fb5ec">
+  <br>
+  Figure 8 Admin Add New Product
+  <br><br>
+
+  <img width="610" alt="Screenshot_9" src="https://github.com/user-attachments/assets/02f993da-e57e-45c2-85d6-34f5bf2d31b8">
+  <br>
+  Figure 9 Index page, Search Products
+  <br><br>
+
+  <img width="610" alt="Screenshot_24" src="https://github.com/user-attachments/assets/99f4bf9f-6b34-4cd6-a3df-77df156f39fc">
+  <br>
+  Figure 10 Product Buy (Details (Color, Price, Size))
+  <br><br>
+
+  <img width="610" alt="8" src="https://github.com/user-attachments/assets/8857df10-3e91-41ac-8aa3-029e58008365">
+  <br>
+  Figure 11 Reviews (Vendor and Product)
+  <br><br>
+
+  <img width="610" alt="11" src="https://github.com/user-attachments/assets/f8206327-56e5-49bf-a876-4d0432459058">
+  <br>
+  Figure 12 Product Compare (Control)
+  <br><br>
+
+  <img width="610" alt="9" src="https://github.com/user-attachments/assets/05d386f9-af2c-4e79-a285-a7d2902b02fa">
+  <br>
+  Figure 13 User Login to E-Commerce
+  <br><br>
+
+  <img width="610" alt="10" src="https://github.com/user-attachments/assets/da0856f6-07e0-4298-b82d-827a22325d13">
+  <br>
+  Figure 14 Product Add to Cart (Before Payment)
+  <br><br>
+
+  <img width="610" alt="Screenshot_36" src="https://github.com/user-attachments/assets/5166a8aa-5e25-48cc-9c74-aeb395490cf9">
+  <br>
+  Figure 15 Purchasing the desired product
+  <br><br>
+
+  <img width="610" alt="Screenshot_37" src="https://github.com/user-attachments/assets/d6a2daac-2c82-46e2-a6e2-6115b27a097a">
+  <br>
+  Figure 16 Using a coupon with a discount code that was added through the admin panel
+  <br><br>
+
+  <img width="610" alt="Screenshot_39" src="https://github.com/user-attachments/assets/e08b8b5d-a35f-4a07-80eb-f5b242ba7275">
+  <br>
+  Figure 17 Billing Details, Product
+  <br><br>
+
+  <img width="610" alt="Screenshot_40" src="https://github.com/user-attachments/assets/96ebb8e5-fb0e-4a62-8e8c-e87e9eb5fd98">
+  <br>
+  Figure 18 Payment types, options
+  <br><br>
+
+  <img width="610" alt="Screenshot_35" src="https://github.com/user-attachments/assets/c97f6f8c-6e01-408f-a381-41c37152f626">
+  <br>
+  Figure 19 Admin panel, coupons with discount codes for purchases
+  <br><br>
+
+  <img width="610" alt="Screenshot_41" src="https://github.com/user-attachments/assets/debb2e65-c039-4ffd-a944-2504317db8be">
+  <br>
+  Figure 20 User, selection of cash payment
+  <br><br>
+
+  <img width="610" alt="Screenshot_42" src="https://github.com/user-attachments/assets/de02685b-020a-47d3-8b61-a2e7af3a28be">
+  <br>
+  Figure 21 Order records for the user
+  <br><br>
+
+  <img width="610" alt="Screenshot_43" src="https://github.com/user-attachments/assets/b1f5ecc9-21ee-4f69-9c3c-c2925374a20d">
+  <br>
+  Figure 22 Order details for the user
+  <br><br>
+
+  <img width="610" alt="Screenshot_46" src="https://github.com/user-attachments/assets/ea753f1f-3132-49a4-ba18-49aabcc1c1f1">
+  <br>
+  Figure 23 Admin panel for tracking orders
+  <br><br>
+
+  <img width="610" alt="Screenshot_47" src="https://github.com/user-attachments/assets/222fec8b-803f-4b93-9fd3-e719fb1e94f5">
+  <br>
+  Figure 24 Seller, orders that have been placed with sellers, table display
+  <br><br>
+
+  <img width="610" alt="Screenshot_48" src="https://github.com/user-attachments/assets/23b89796-ccee-499f-a32c-0552fdd3efbd">
+  <br>
+  Figure 25 Seller, order details
+  <br><br>
+
+  <img width="610" alt="Screenshot_49" src="https://github.com/user-attachments/assets/3772191c-a309-48aa-8056-72d9e7a29403">
+  <br>
+  Figure 26 Order approval in the admin panel
+  <br><br>
+
+  <img width="610" alt="Screenshot_50" src="https://github.com/user-attachments/assets/82f61948-eb06-4237-b3d6-a324ca903a53">
+  <br>
+  Figure 27 Display of all confirmed orders in the admin panel
+  <br><br>
+
+  <img width="610" alt="Screenshot_51" src="https://github.com/user-attachments/assets/aac91dbc-edee-44b8-8e2a-5027469fcb98">
+  <br>
+  Figure 28 Display of order confirmation for the user, i.e., the buyer
+  <br><br>
+
+  <img width="610" alt="13" src="https://github.com/user-attachments/assets/284faa68-a1ef-4e9a-bc73-5ea8cae2c93c">
+  <br>
+  Figure 29 Display of the order tracking path, where the user can monitor its status and Return Orders in Vendor Panel
+  <br><br>
+
+  <img width="610" alt="14" src="https://github.com/user-attachments/assets/a4744d7c-59bc-43f8-85ee-3fb79f4b20e3">
+  <br>
+  Figure 30 Display of order tracking in the admin panel, showing the order status
+  <br><br>
+
+  <img width="610" alt="Screenshot_56" src="https://github.com/user-attachments/assets/d9a8c6cb-238f-496c-b71c-337348ad69dc">
+  <br>
+  Figure 31 Return product approval in admin panel
+  <br><br>
+
+  <img width="610" alt="Screenshot_57" src="https://github.com/user-attachments/assets/81b6a354-0d57-49f4-a43f-d4547a79b7a1">
+  <br>
+  Figure 32 Display of products that the user wants to return and the status in the admin panel
+</div>
