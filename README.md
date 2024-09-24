@@ -63,7 +63,7 @@ This project is a comprehensive e-commerce management system built using Laravel
 
 - **Framework**: Laravel 10
 - **Frontend**: Bootstrap 5 with professional theme integration
-- **Backend**: Professional theme integration (MySQL, PHP)
+- **Backend**: Professional theme integration and (MySQL, PHP)
 - **Payment**: Multiple Online Payment Gateways (e.g., Stripe, PayPal)
 
 
