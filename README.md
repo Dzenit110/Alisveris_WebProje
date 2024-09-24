@@ -8,7 +8,6 @@ On the admin panel, all essential settings are available, such as when a user vi
 
 For purchased products, the customer can cancel the order before the product is shipped, while the item is still on the way. Additionally, the customer can leave a comment and rating for the purchased product and can also read and view comments from other users. The user can also see how many items are available for purchase and which manufacturer placed them for sale. Finally, there is a seller panel where the seller can track orders and get basic information about their products during the online sales process.
 
-<br><br>
 
 This project is based on a realistic online shopping and selling system. Everything has been done in detail, as described above. You can see the screenshots, and at the end, the tools and technologies used for the realization of this project are listed.
 
