@@ -75,7 +75,26 @@ Figure 1 The theme used in the project (Bootstrap 5)
 <br><br>
 
 ![3](https://github.com/user-attachments/assets/f9479fcb-eb62-432b-9a49-afac11afea7c)
-
-
+<br>
 Figure 2 Login and Registration page
 <br><br>
+
+![4](https://github.com/user-attachments/assets/ccb669be-ff19-4eee-b9c8-9226cb6d124b)
+<br>
+Figure 3 Display of the admin panel and the seller panel<br><br>
+
+<img width="111" alt="Screenshot_7" src="https://github.com/user-attachments/assets/cb939e90-9e9f-4be0-ab29-812647bdd7b2">
+
+<br>
+Figure 4 Sidebar Admin 
+<br><br>
+
+<img width="622" alt="Screenshot_8" src="https://github.com/user-attachments/assets/4fe48874-60e7-4a10-b88a-736785950671">
+
+Figure 5 Admin All Category<br><br>
+
+<img width="622" alt="Screenshot_9" src="https://github.com/user-attachments/assets/02f993da-e57e-45c2-85d6-34f5bf2d31b8">
+
+Figure 6 Index page, Search Products 
+
+
