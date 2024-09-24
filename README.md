@@ -238,6 +238,7 @@ Figure 33 Tracking users in the admin panel
 
 </div>
 <br><br>
+
 ## 🧰 Languages & Tools <br><br>
 
 <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" width="50" height="50" alt="HTML5"> &nbsp; &nbsp;
@@ -248,5 +249,6 @@ Figure 33 Tracking users in the admin panel
 <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" width="50" height="50" alt="PHP Icon"> &nbsp; &nbsp;
 <img src="https://github.com/devicons/devicon/raw/master/icons/laravel/laravel-original.svg" width="50" height="50" alt="Laravel"> &nbsp; &nbsp;
 <img src="https://github.com/user-attachments/assets/19a7d6fe-0dc4-4eb3-a3ee-672832554b53" width="50" height="50" alt="Image Description"> &nbsp; &nbsp;
-<img src="https://github.com/user-attachments/assets/b9374cfa-2cf9-46ed-8306-b3cfc1e45203" width="90" height="90" alt="Image Description"> &nbsp; &nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" width="50" height="50" alt="MySQL Logo"> &nbsp; &nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-original-wordmark.svg" width="50" height="50" alt="jQuery Logo"> &nbsp; &nbsp;
 
