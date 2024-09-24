@@ -100,12 +100,36 @@ Figure 6 Admin Product Details<br><br>
 
 ![7](https://github.com/user-attachments/assets/67cfde47-d385-4eeb-830c-c120ae139f2e)
 
-Figure 7 Admin Add New Product<br><br>
+Figure 7 Admin Change Product (Category, Brand..)
+
+<img width="610" alt="Screenshot_21" src="https://github.com/user-attachments/assets/0638d562-1605-435a-8b7e-379f4c3fb5ec">
+
+Figure 8 Admin Add New Product<br><br>
 
 <img width="622" alt="Screenshot_9" src="https://github.com/user-attachments/assets/02f993da-e57e-45c2-85d6-34f5bf2d31b8">
 
-Figure 8 Index page, Search Products <br><br>
+Figure 9 Index page, Search Products <br><br>
 
+<img width="462" alt="Screenshot_24" src="https://github.com/user-attachments/assets/99f4bf9f-6b34-4cd6-a3df-77df156f39fc">
+
+Figure 10 Product Buy (Details (Color, Price, Size))<br><br>
+
+![8](https://github.com/user-attachments/assets/8857df10-3e91-41ac-8aa3-029e58008365)
+
+Figure 11 Reviews (Vendor and Product)<br><br>
+
+![11](https://github.com/user-attachments/assets/f8206327-56e5-49bf-a876-4d0432459058)
+
+Figure 12 Product Compare (Control)<br><br>
+
+
+![9](https://github.com/user-attachments/assets/05d386f9-af2c-4e79-a285-a7d2902b02fa)
+
+Figure 13 User Login to E-Commerce <br><br>
+
+![10](https://github.com/user-attachments/assets/da0856f6-07e0-4298-b82d-827a22325d13)
+
+Figure 14 Product Add to Cart (Before Payment)<br><br>
 
 
 
