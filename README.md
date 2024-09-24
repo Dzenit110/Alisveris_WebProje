@@ -131,5 +131,29 @@ Figure 13 User Login to E-Commerce <br><br>
 
 Figure 14 Product Add to Cart (Before Payment)<br><br>
 
+<img width="605" alt="Screenshot_36" src="https://github.com/user-attachments/assets/5166a8aa-5e25-48cc-9c74-aeb395490cf9">
+
+Figure 15 Purchasing the desired product<br><br>
+
+ <img width="352" alt="Screenshot_37" src="https://github.com/user-attachments/assets/d6a2daac-2c82-46e2-a6e2-6115b27a097a">
+
+Figure 16 Using a coupon with a discount code that was added through the admin panel<br><br>
+
+
+<img width="610" alt="Screenshot_39" src="https://github.com/user-attachments/assets/e08b8b5d-a35f-4a07-80eb-f5b242ba7275">
+
+Figure 17 Billing Details, Product<br><br>
+
+
+<img width="285" alt="Screenshot_40" src="https://github.com/user-attachments/assets/96ebb8e5-fb0e-4a62-8e8c-e87e9eb5fd98">
+
+Figure 18 Payment types, options<br><br>
+
+
+
+
+
+
+
 
 
